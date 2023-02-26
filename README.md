@@ -8,7 +8,6 @@ A simple notes app. Users can set colors for notes. Search your notes easily. Yo
 - Supports Android/iOS
 - Search notes
 - List/grid view for notes
-- Labels for notes
 - Archive notes
 - Smooth UI
 - AppLock ```Both fingerprint and FaceID works```
