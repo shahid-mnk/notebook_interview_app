@@ -193,7 +193,7 @@ class _DashBoardScreenState extends State<DashBoardScreen> {
               children: [
                 // SizedBox(width: 50,),
                 Image.asset(
-                  'images/bnotes-transparent.png',
+                  'images/app_icon.png',
                   height: 50,
                 ),
                 const SizedBox(
